@@ -4,7 +4,7 @@
             Crear usuario
         </h2>
     </x-slot>
-
+<x-back-dashboard />
     <div class="py-8">
         <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white shadow-md rounded p-6">
